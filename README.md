@@ -1,7 +1,7 @@
 <img src="https://telegra.ph/file/59530b4e467baea6240eb.png" alt="logo" target="/blank">
 
 <h1 align="center">
- <b><a href="https://t.me/+raMCLKZ3PN4yYjQ1" target="/blank">moviedisk-URL-BOT</a></>
+ <b><a href="https://t.me/+raMCLKZ3PN4yYjQ1" target="/blank">movie-URL-BOT</a></>
 </h1>
 
 <p align="center">🤍 Thanks for Being Here 🤍</p>
